@@ -9,3 +9,4 @@ Ask me about:
 - NFTs 💎
 
 Email: tombonanni@gmail.com
+Medium: https://medium.com/@tombonanni
