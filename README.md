@@ -4,7 +4,7 @@ I'm Tom Bonanni. I'm a full stack developer and love creating new things. Curren
 
 Ask me about:
 - Solidity 👨‍💻
-- Yield Farming 🧑‍🌾, 
+- Yield Farming 🧑‍🌾
 - DeFi ⚡
 - NFTs 💎
 
