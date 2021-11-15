@@ -7,11 +7,10 @@
 
 Ask me about:
 - Blockchain ⛓️
-- Solidity 👨‍💻
 - Yield Farming 🧑‍🌾
 - DeFi ⚡
 - NFTs 💎
-- React
-- Fullstack Development
+- React ⚛️
+- Fullstack Development 💻
 
 Email: tombonanni@gmail.com
