@@ -12,6 +12,3 @@ Ask me about:
 - Blockchain ⛓️
 - DeFi ⚡
 - NFTs 💎
-
-
-Email: tombonanni@gmail.com
