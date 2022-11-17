@@ -6,12 +6,13 @@
 <p>I'm a Full stack developer that loves creating new things. Currently working on the decentralized web in order to create a trustless, open and free world.</p>
 
 Ask me about:
+- Product Development 💻
+- React ⚛️
+- Design Systems 🧱
 - Blockchain ⛓️
-- Yield Farming 🧑‍🌾
 - DeFi ⚡
 - NFTs 💎
-- React ⚛️
-- Fullstack Development 💻
+
 
 Email: tombonanni@gmail.com
 
