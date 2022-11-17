@@ -15,5 +15,3 @@ Ask me about:
 
 
 Email: tombonanni@gmail.com
-
-<a href="https://bonanni.dev">bonanni.dev</a>
