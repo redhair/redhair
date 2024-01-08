@@ -6,9 +6,8 @@
 <p>I'm a Full stack developer that loves creating new things. Currently working on the decentralized web in order to create a trustless, open and free world.</p>
 
 Ask me about:
-- Product Development 💻
+- Product Engineering 💻
 - React ⚛️
 - Design Systems 🧱
-- Blockchain ⛓️
 - DeFi ⚡
-- NFTs 💎
+- TypeScript
