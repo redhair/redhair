@@ -10,4 +10,4 @@ Ask me about:
 - React ⚛️
 - Design Systems 🧱
 - DeFi ⚡
-- TypeScript
+- TypeScript 🔵 
