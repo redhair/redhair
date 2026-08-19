@@ -6,7 +6,7 @@ Founding engineer at [Parcl](https://parcl.co). I have built onchain real estate
 
 I build Parcl v4, a fully onchain order book exchange with cross margin and a dedicated execution layer that settles on Solana. My daily work is exchange infrastructure: matching, margin and liquidation logic, validators, and indexers. Most of it is Rust and TypeScript.
 
-Almost all of this work is in private repos, so the contribution graph does not show much. The short version: Parcl hired me to build the frontend, and I grew into full stack everything. That now includes smart contracts, backend, and infrastructure. I have shipped three generations of the protocol. Parcl v3 did more than $5B in trading volume.
+Almost all of this work is in private repos, so the contribution graph does not show much. The short version: Parcl hired me to build the frontend. I built the apps and parts of the backend for v1 through v3, and took ownership of the v3 smart contract after its original author left. Parcl v3 did more than $5B in trading volume. For v4, we build our own chain from scratch, and I work across the whole stack.
 
 ## Before
 
